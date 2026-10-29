@@ -46,11 +46,11 @@ Created visualizations and dashboards in Power BI.
 
 # Key Findings
 
-To be completed after validating the SQL results and Power BI analysis.
+The most popular coffee type is Latte. Card sales are exceeded cash sales. The biggest number of sales was in March and October.
 
 # Dashboard
 
-Dashboard screenshots will be added here after the report is finalized.
+
 
 # Notes
 
