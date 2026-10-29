@@ -34,7 +34,7 @@ coffee-sales-analytics
 
 # Methodology
 
-Imported the source CSV files into SQLite.
+Imported the source CSV files into SQL.
 
 Explored the dataset using SQL queries.
 
