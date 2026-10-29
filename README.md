@@ -27,7 +27,7 @@ coffee-sales-analytics
     - 01_basic_analysis.sql
     - 02_product_analysis.sql
     - 03_payment_analysis.sql
-- power-bi/
+- power-bi
     - coffee-sales-dashboard.pbix
     - dashboard-preview.png
 - README.md
