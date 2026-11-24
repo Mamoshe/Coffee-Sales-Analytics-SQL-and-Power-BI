@@ -24,7 +24,7 @@ How do sales and revenue change over time?
 coffee-sales-analytics
 - data
 - sql
-    - SQL.txt
+    - analysis_queries.sql
 - power-bi
     - coffee-sales-dashboard.pbix
     - dashboards.png
