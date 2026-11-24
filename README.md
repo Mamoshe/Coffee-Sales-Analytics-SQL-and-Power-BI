@@ -23,15 +23,16 @@ At which hours are sales highest?
 
 # Project Structure
 
-coffee-sales-analytics
-- data
-- sql
-    - analysis_queries.sql
-- power-bi
-    - coffee-sales-dashboard.pbix
-    - dashboards.png
-- README.md
-
+```
+coffee-sales-analytics/
+├── data/
+├── sql/
+│   └── analysis_queries.sql
+├── power-bi/
+│   ├── coffee-sales-dashboard.pbix
+│   └── dashboards.png
+└── README.md
+```
 # Methodology
 
 Imported the source CSV files into SQL.
