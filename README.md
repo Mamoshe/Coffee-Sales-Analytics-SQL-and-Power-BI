@@ -47,8 +47,14 @@ Created visualizations and dashboards in Power BI.
 # Key Findings
 
 The most popular coffee type is Latte. Card sales are exceeded cash sales. The biggest number of sales was in March and October.
+Peak Hours of Sales are 10.44 am and 7.03 pm.
+
 
 # Dashboard
+<img width="693" height="284" alt="image" src="https://github.com/user-attachments/assets/9ca2229e-6931-42fd-885e-265913767aa5" />
+<img width="439" height="229" alt="image" src="https://github.com/user-attachments/assets/52ad1f6d-3819-4c63-9c9a-b5e9d05b34d8" />
+<img width="503" height="230" alt="image" src="https://github.com/user-attachments/assets/caad4147-a2c4-451b-ba25-dc8701ac7c3b" />
+
 
 
 
