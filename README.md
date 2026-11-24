@@ -1,9 +1,9 @@
 # cofee-sales-analytics
 # Project Overview
-This project analyzes coffee sales data using SQLite Power BI. The goal is to explore sales performance, revenue, product popularity, and payment methods.
+This project analyzes coffee sales data using SQLite and Power BI. The goal is to explore sales performance, revenue, product popularity, and payment methods.
 
 # Tools Used
-SQL,Power BI
+SQLite ,Power BI
 
 # Business Questions
 
