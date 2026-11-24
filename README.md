@@ -19,6 +19,8 @@ Which payment methods are used most frequently?
 
 How do sales and revenue change over time?
 
+At which hours are sales highest?
+
 # Project Structure
 
 coffee-sales-analytics
